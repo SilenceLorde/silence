@@ -1,7 +1,1 @@
-echo "# silence" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SilenceLorde/silence.git
-git push -u origin main
+Je ne sais pas ce que je fait
